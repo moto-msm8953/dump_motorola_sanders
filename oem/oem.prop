@@ -1,0 +1,9 @@
+#
+# OEM_BUILD_PROPERTIES
+#
+ro.build.version.incremental=63857
+ro.build.version.ci=12
+ro.mot.build.guid=b6ef037bb91a448
+ro.product.name=sanders_retid
+ro.mot.build.oem.product=sanders_retid
+ro.mot.build.customerid=retid

@@ -1,0 +1,38 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+persist.esdfs_sdcard=true
+persist.vold.ecryptfs_supported=true
+ro.oem_unlock_supported=1
+ro.logdumpd.enabled=0
+ro.zygote=zygote32
+dalvik.vm.image-dex2oat-Xms=64m
+dalvik.vm.image-dex2oat-Xmx=64m
+dalvik.vm.dex2oat-Xms=64m
+dalvik.vm.dex2oat-Xmx=512m
+ro.dalvik.vm.native.bridge=0
+dalvik.vm.usejit=true
+dalvik.vm.usejitprofiles=true
+dalvik.vm.dexopt.secondary=true
+dalvik.vm.appimageformat=lz4
+pm.dexopt.first-boot=quicken
+pm.dexopt.boot=verify
+pm.dexopt.install=quicken
+pm.dexopt.bg-dexopt=speed-profile
+pm.dexopt.ab-ota=speed-profile
+pm.dexopt.inactive=verify
+pm.dexopt.shared=speed
+debug.atrace.tags.enableflags=0
+ro.mot.product_wave=2017.2
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Tue Aug 13 15:06:19 CDT 2019
+ro.bootimage.build.date.utc=1565726779
+ro.bootimage.build.fingerprint=motorola/sanders_retail/sanders:8.1.0/OPS28.65-36-14/63857:user/release-keys
+

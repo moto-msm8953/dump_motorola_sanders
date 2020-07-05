@@ -1,0 +1,4 @@
+<permissions>
+   <library name="com.motorola.imager.sanders"
+       file="/system/framework/com.motorola.imager.sanders" />
+</permissions>

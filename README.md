@@ -1,0 +1,13 @@
+# user 8.1.0 OPS28.65-36-14 63857 release-keys
+- manufacturer: motorola
+- platform: msm8953
+- codename: sanders
+- flavor: user
+- release: 8.1.0
+- id: OPS28.65-36-14
+- incremental: 63857
+- tags: release-keys
+- fingerprint: 
+- brand: motorola
+- branch: user-8.1.0-OPS28.65-36-14-63857-release-keys
+- repo: motorola_sanders_dump
